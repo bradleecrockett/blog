@@ -3,9 +3,9 @@ layout: post
 title: Welcome to Tech Innovations
 ---
 
-Introduce yourself on this post.  Each week you will be creating a new blog entry (like this one) summarizing what you have learnerd, worked on, completed, or struggles that you encountered.
+Introduce yourself on this post.  Each week you will be creating a new blog entry (like this one) sumarizing what you have learnerd, worked on, completed, or struggles that you encountered.
 The easiest way these posts are really easy to make wiht Mark Down and will provide the evidence 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }})
 
 Here is a link to a quick [Markdown Style Guide](http://www.jekyllnow.com/Markdown-Style-Guide/).
